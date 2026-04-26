@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Estudiante+de+Desarrollo+de+Software;Pasión+por+el+Fullstack;React%2C+Java%2C+SQL+%26+más" alt="Typing SVG" />
 </p>
 
-## Sobre Mí## Sobre Mí
+## Sobre Mí
 
 Soy una estudiante de **Tecnología en Desarrollo de Software** (actualmente en 4to semestre) con sede en Villavicencio, Colombia. Me apasiona crear soluciones web robustas y eficientes, combinando la lógica del backend con experiencias de usuario intuitivas en el frontend.
 
@@ -39,6 +39,7 @@ Estas son las herramientas y tecnologías con las que trabajo y sigo aprendiendo
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Railway" />
 </p>
 
 ### Herramientas y Otros
@@ -58,6 +59,10 @@ Aquí puedes ver algunos de mis trabajos más recientes. ¡Haz clic en los enlac
 ### 📱 [View App - Red Social Profesional](https://github.com/AlejaR522/view-app)
 Una aplicación fullstack que simula una mini red social. Cuenta con autenticación segura, un panel de administrador y una arquitectura de base de datos híbrida (**PostgreSQL** y **MongoDB Atlas**).
 * **Tech Stack:** React, Node.js, Express, PostgreSQL, MongoDB Atlas, JWT, jsPDF.
+
+### 📱 [Recordings - Calendario de Tareas](https://github.com/AlejaR522/view-app)
+Una aplicación web moderna para el seguimiento de hábitos diarios de bienestar, estado de ánimo, sueño, hidratación y productividad.
+* **Tech Stack:** React, TypeScript, Tailwind CSS + PostCSS, Supabase.
 
 ### 💼 [Bolsa de Empleo con Gestión de Roles](https://github.com/AlejaR522/bolsa-empleo)
 Una plataforma web para la gestión de ofertas laborales, con un sistema de permisos que diferencia entre administradores (creadores de vacantes) y aplicantes.
