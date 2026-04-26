@@ -1,4 +1,4 @@
-# ¡Hola! Soy Aleja Ruiz 👋
+# ¡Hola! Soy Alejandra Ruiz 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Estudiante+de+Desarrollo+de+Software;Pasión+por+el+Fullstack;React%2C+Java%2C+SQL+%26+más" alt="Typing SVG" />
