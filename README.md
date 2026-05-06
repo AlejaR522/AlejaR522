@@ -56,19 +56,19 @@ Estas son las herramientas y tecnologías con las que trabajo y sigo aprendiendo
 
 Aquí puedes ver algunos de mis trabajos más recientes. ¡Haz clic en los enlaces para explorar el código!
 
-### 📱 [View App - Red Social Profesional](https://github.com/AlejaR522/view-app)
+### 📱 [View App - Red Social Profesional](https://github.com/AlejaR522/view)
 Una aplicación fullstack que simula una mini red social. Cuenta con autenticación segura, un panel de administrador y una arquitectura de base de datos híbrida (**PostgreSQL** y **MongoDB Atlas**).
 * **Tech Stack:** React, Node.js, Express, PostgreSQL, MongoDB Atlas, JWT, jsPDF.
 
-### 📱 [Recordings - Calendario de Tareas](https://github.com/AlejaR522/view-app)
+### 📱 [Recordings - Calendario de Tareas](https://github.com/AlejaR522/recordings)
 Una aplicación web moderna para el seguimiento de hábitos diarios de bienestar, estado de ánimo, sueño, hidratación y productividad.
 * **Tech Stack:** React, TypeScript, Tailwind CSS + PostCSS, Supabase.
 
-### 💼 [Bolsa de Empleo con Gestión de Roles](https://github.com/AlejaR522/bolsa-empleo)
+### 💼 [Bolsa de Empleo con Gestión de Roles](https://github.com/AlejaR522/Job-Board-corredor-ecologico)
 Una plataforma web para la gestión de ofertas laborales, con un sistema de permisos que diferencia entre administradores (creadores de vacantes) y aplicantes.
 * **Tech Stack:** JavaScript, Supabase, Tailwind CSS.
 
-### 🐍 [Aplicativo de Gestión (POO)](https://github.com/AlejaR522/gestion-poo-python)
+### 🐍 [Aplicativo de Gestión (POO)](https://github.com/AlejaR522/Sistema-Gestion-de-Tienda)
 Un proyecto académico enfocado en la aplicación de los principios de la Programación Orientada a Objetos para resolver problemas de lógica de negocio.
 * **Tech Stack:** Python.
 
